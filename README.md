@@ -5,11 +5,18 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Callback Functions
+		A function which can be passed into another function as an argument.
 	* Closure
+		A function that knows where it has come from. If it has been returned from somewhere, it understands that and can recall the scope from that previous function.
 	* arguments array
+		An array that contains arguments.
 	* recursion
+		A function that calls itself inside of itself. 
 	* prototype
+		A collection of commonly used properties and functions within a seperate function, in which properties can be inherited in future objects.
 	* constructors
+		An object class.
+
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
